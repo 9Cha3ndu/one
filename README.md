@@ -1,4 +1,2 @@
-# one
-This is user.
-Learning Devops
-ji
+Hello My name is chandrika
+Now i am learning Jenkins up
